@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+.col-sm-4 {
+   text-align: center;
+   background: #f3d8d8;
+   border: 20px;
+   border-color: white;
+}
+
+.col-md-3 {
+   text-align: center;
+   background: #e95959;
+   border: 20px;
+   border-color: white;
+}
+
+h3 {
+   color: black;
+}
+
+ul li {
+	
+	list-style-type: none;
+	float: left;		
+}
+
+
