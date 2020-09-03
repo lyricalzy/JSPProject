@@ -98,7 +98,7 @@
 				</div>
 			</div>
 <!-- bc00a071c738ee2da1b6b77ca505f158 -->
-			<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=bc00a071c738ee2da1b6b77ca505f158"></script>
+			<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey={appkey}"></script>
 			<script type="text/javascript">
 				var container = document.getElementById('map');
 				var options = {
